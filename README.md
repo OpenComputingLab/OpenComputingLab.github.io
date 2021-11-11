@@ -1,2 +1,3 @@
 # OpenComputingLab.github.io
-Homepage for OpenComputingLab
+
+Homepage for OpenComputingLab: [contents](https://OpenComputingLab.github.io)
