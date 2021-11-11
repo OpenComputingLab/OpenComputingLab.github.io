@@ -1,12 +1,12 @@
 # OpenComputingLab Homepage
 
-[Repo - `https://github.com/OpenComputingLab/`](https://github.com/OpenComputingLab/OpenComputingLab.github.io/edit/main/index.md)
+[Repo - `https://github.com/OpenComputingLab/`](https://github.com/OpenComputingLab/OpenComputingLab.github.io/)
 
 *An independent project exploring the use of open tools to support open online and distance education.*
 
 ## Philosophy
 
-Creating reusable assets and technology enhanced educational materials is both relatively straightforward (if you know how and have the available resources) and fiendishly difficult (if you donlt know where to start and/or don't think you have the resources to hand).
+Creating reusable assets and technology enhanced educational materials is both relatively straightforward (if you know how and have the available resources) and fiendishly difficult (if you don't know where to start and/or don't think you have the resources to hand).
 
 This informal un-project seeks to explore various tools and techniques for creating, distributing and publishing open educational resources that are reusable with modification in a DIY fashion.
 
